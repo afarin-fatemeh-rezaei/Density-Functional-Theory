@@ -1,0 +1,7 @@
+&PROJWFC
+    prefix = 'si'
+    outdir = './outdir'
+    Emin = -15, Emax = 15
+    DeltaE = 0.01
+    degauss = 0.01
+/
